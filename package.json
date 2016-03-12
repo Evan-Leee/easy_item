@@ -1,0 +1,22 @@
+{
+  "name": "easy-calculate",
+  "version": "1.0.0",
+  "description": "请在文件`src/calculate-median.js`中实现`calculate_median`函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpletrain/easy-calculate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simpletrain/easy-calculate/issues"
+  },
+  "homepage": "https://github.com/simpletrain/easy-calculate#readme",
+  "dependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
