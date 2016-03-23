@@ -3,7 +3,7 @@ function calculate_median_with_even(even_numbers) {
   if (length % 2 === 0) {
     return (even_numbers[length / 2] + even_numbers[length / 2 - 1]) / 2;
   }
-  return even_numbers[Math.floor(length / 2)];
+  return even_numbers[Math.floor(length / 3)];
 }
 
 function calculate_median(arr) {
