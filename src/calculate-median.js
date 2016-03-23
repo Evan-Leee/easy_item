@@ -13,7 +13,7 @@ function calculate_median(arr) {
     return index % 2 === 0;
   });
   result = calculate_median_with_even(even_numbers);
-  return result;
+  return '0';
 }
 
 module.exports = calculate_median;
